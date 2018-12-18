@@ -4,7 +4,8 @@
 *.apk
 *.log
 *.pyc
-*.swp
+*.swpakash@@9
+
 .DS_Store
 .atom/
 .buildlog/
